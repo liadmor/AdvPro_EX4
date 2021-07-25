@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8188242-6b10-45b0-8f2a-23e25485b58a" name="Default Changelist" comment="Update class shopping_cart.py">
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1lhoktQINUskUwoPQLiPDR5Sqty" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for shopping_cart_tests.test_empty_shopping_cart">
+    <configuration name="pytest for shopping_cart_tests.test_empty_shopping_cart" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="liad.mor-hw4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;shopping_cart_tests.test_empty_shopping_cart&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for store_tests.test_checkout_empty_shopping_cart" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="liad.mor-hw4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;store_tests.test_checkout_empty_shopping_cart&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for store_tests.test_correct_total" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="liad.mor-hw4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;store_tests.test_correct_total&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for store_tests.test_remove_non_existing_item" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="liad.mor-hw4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;store_tests.test_remove_non_existing_item&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for store_tests.test_sort_with_hashtag_search_non_empty_cart" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="liad.mor-hw4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;store_tests.test_sort_with_hashtag_search_non_empty_cart&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for store_tests.test_sort_with_shopping_cart_example" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="liad.mor-hw4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;store_tests.test_sort_with_shopping_cart_example&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8188242-6b10-45b0-8f2a-23e25485b58a" name="Default Changelist" comment="" />
+      <created>1608058829604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608058829604</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Update class shopping_cart.py">
+      <created>1608069621752</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608069621752</updated>
+    </task>
+    <task id="LOCAL-00002" summary="complete def search_by_name">
+      <created>1608156912798</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608156912798</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update all class store.py">
+      <created>1608214053901</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608214053901</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update class shopping_cart.py" />
+    <MESSAGE value="complete def search_by_name" />
+    <MESSAGE value="Update all class store.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update all class store.py" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1608202593050">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.680/1920.-406.1920.1040@0.0.1280.680" timestamp="1608202593050" />
+    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1608214053159">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.-406.1920.1040@0.0.1280.680" timestamp="1608214053159" />
+    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1608156911724" />
+    <state x="121" y="50" key="DiffContextDialog" timestamp="1608214047428">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="50" key="DiffContextDialog/0.0.1280.680/1920.-406.1920.1040@0.0.1280.680" timestamp="1608214047428" />
+    <state x="121" y="50" key="DiffContextDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1608156908718" />
+    <state width="1259" height="211" key="GridCell.Tab.0.bottom" timestamp="1608214182638">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="211" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.-406.1920.1040@0.0.1280.680" timestamp="1608214182638" />
+    <state width="1259" height="241" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1608156823096" />
+    <state width="1899" height="258" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608155766164" />
+    <state width="1259" height="211" key="GridCell.Tab.0.center" timestamp="1608214182638">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="211" key="GridCell.Tab.0.center/0.0.1280.680/1920.-406.1920.1040@0.0.1280.680" timestamp="1608214182638" />
+    <state width="1259" height="241" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1608156823096" />
+    <state width="1899" height="258" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608155766164" />
+    <state width="1259" height="211" key="GridCell.Tab.0.left" timestamp="1608214182638">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="211" key="GridCell.Tab.0.left/0.0.1280.680/1920.-406.1920.1040@0.0.1280.680" timestamp="1608214182638" />
+    <state width="1259" height="241" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1608156823096" />
+    <state width="1899" height="258" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608155766164" />
+    <state width="1259" height="211" key="GridCell.Tab.0.right" timestamp="1608214182638">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="211" key="GridCell.Tab.0.right/0.0.1280.680/1920.-406.1920.1040@0.0.1280.680" timestamp="1608214182638" />
+    <state width="1259" height="241" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1608156823096" />
+    <state width="1899" height="258" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608155766164" />
+    <state width="1259" height="157" key="GridCell.Tab.1.bottom" timestamp="1608214182635">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="157" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.-406.1920.1040@0.0.1280.680" timestamp="1608214182635" />
+    <state width="1259" height="173" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1608156666016" />
+    <state width="1259" height="157" key="GridCell.Tab.1.center" timestamp="1608214182635">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="157" key="GridCell.Tab.1.center/0.0.1280.680/1920.-406.1920.1040@0.0.1280.680" timestamp="1608214182635" />
+    <state width="1259" height="173" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1608156666016" />
+    <state width="1259" height="157" key="GridCell.Tab.1.left" timestamp="1608214182635">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="157" key="GridCell.Tab.1.left/0.0.1280.680/1920.-406.1920.1040@0.0.1280.680" timestamp="1608214182635" />
+    <state width="1259" height="173" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1608156666016" />
+    <state width="1259" height="157" key="GridCell.Tab.1.right" timestamp="1608214182635">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="157" key="GridCell.Tab.1.right/0.0.1280.680/1920.-406.1920.1040@0.0.1280.680" timestamp="1608214182635" />
+    <state width="1259" height="173" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1608156666016" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1608062506709">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680/1920.-406.1920.1040@0.0.1280.680" timestamp="1608062506709" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="tests">
+        <watch expression="store._shopping_cart" />
+      </configuration>
+      <configuration name="PythonConfigurationType">
+        <watch expression="item" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="hg4idea.settings">
+    <option name="CHECK_INCOMING_OUTGOING" value="true" />
+    <option name="RECENT_HG_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+</project>
